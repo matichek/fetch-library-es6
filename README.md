@@ -1,3 +1,3 @@
 # fetch-library-es6
 
-Simple ES6 fetch http library
+Simple Javascript ES6 fetch http library
